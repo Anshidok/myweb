@@ -1,0 +1,26 @@
+.header{
+    position:fixed; width: 100%; z-index: 1;
+}
+
+.head-p1{
+    font-style: oblique;
+        font-weight: bold;
+        font-size: x-large;
+}
+.head-p2{
+    font-style: oblique;
+        font-weight: bold;
+        font-size: x-large;
+}
+.contact{
+    width: 104%;
+}
+.submit{
+    width:70%
+}
+.footer{
+    background-color: #d1c8c8; margin-top: 3em
+}
+.footer-bottom{
+    background-color: rgba(0, 0, 0, 0.2);
+}
