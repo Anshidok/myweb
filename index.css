@@ -1,7 +1,9 @@
 .header{
-    position:fixed; width: 100%; z-index: 1;
+   
 }
-
+.backimg{
+    padding-top: 6em; height: 37em; background-size: 100% 80%; background-repeat: no-repeat; background-image:url(images/bgimg.jpeg) ; 
+}
 .head-p1{
     font-style: oblique;
         font-weight: bold;
